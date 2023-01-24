@@ -1,16 +1,11 @@
 # bmi_calculator_app
 
-A new Flutter project.
+Body Mass Index is a simple calculation using a person’s height and weight. The formula is BMI = kg/m2 where kg is a person’s weight in kilograms and m2 is their height in metres squared.
 
-## Getting Started
+A BMI of 25.0 or more is overweight, while the healthy range is 18.5 to 24.9. BMI applies to most adults 18-65 years.
 
-This project is a starting point for a Flutter application.
+This project calculates BMI according to user input weight and height data. Height can be insert in ft'inch' unit & weight in kg.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1674583480](https://user-images.githubusercontent.com/50953026/214373656-930ee398-5870-47db-b171-3700cbf25e71.png)
+![Screenshot_1674583519](https://user-images.githubusercontent.com/50953026/214373692-38ae15c9-c248-46e4-baa0-9b18de85dcc8.png)
